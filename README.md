@@ -1,5 +1,9 @@
 # art
 
+## UI/UX
+  * [Adobe Illustrator Game UI Design + Buttons Tutorial (Mobile Game Menu)](https://www.youtube.com/watch?v=9NYHe4fsGCQ)
+    * the tutorial show how how to make toon style text, button.
+
 ## animations
   * [Tutorial: Tree Rigging For Feature Film](https://80.lv/articles/tutorial-tree-rigging-for-feature-film/)
     * this tutorial is dedicated to creating and animating trees in Houdini. The guide is all about the procedural way.
