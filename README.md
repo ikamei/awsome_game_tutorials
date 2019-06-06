@@ -3,6 +3,8 @@
 ## Fundamental
   * [Tech Art Fundamentals tutorial series](https://realtimevfx.com/t/tech-art-fundamentals-tutorial-series/8591)
     * the tutorial is for someone just getting into UE4 material and shaders and want to learn some basic concepts for vfx.
+  * [Killer VFX Course](https://realtimevfx.com/t/killer-vfx-course/8700)
+    * Photoshop For VFX Artists
 
 ## UI/UX
   * [Adobe Illustrator Game UI Design + Buttons Tutorial (Mobile Game Menu)](https://www.youtube.com/watch?v=9NYHe4fsGCQ)
@@ -36,3 +38,5 @@
     * 视频中介绍了如何使用ue4和after effect制作爆炸效果。
   * [Camouflage Shader on ShaderForge](https://www.patreon.com/posts/camouflage-on-27190908)
     * 使用ShaderForge制作隐身效果。
+  * [Breakdown: Magic Fire Effect in Unity](https://80.lv/articles/breakdown-magic-fire-effect-in-unity/)
+    * 在Unity中如何制作火焰效果，有源码。
