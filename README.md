@@ -1,5 +1,9 @@
 # art
 
+## Fundamental
+  * [Tech Art Fundamentals tutorial series](https://realtimevfx.com/t/tech-art-fundamentals-tutorial-series/8591)
+    * the tutorial is for someone just getting into UE4 material and shaders and want to learn some basic concepts for vfx.
+
 ## UI/UX
   * [Adobe Illustrator Game UI Design + Buttons Tutorial (Mobile Game Menu)](https://www.youtube.com/watch?v=9NYHe4fsGCQ)
     * the tutorial show how how to make toon style text, button.
