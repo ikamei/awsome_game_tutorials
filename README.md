@@ -40,3 +40,7 @@
     * 使用ShaderForge制作隐身效果。
   * [Breakdown: Magic Fire Effect in Unity](https://80.lv/articles/breakdown-magic-fire-effect-in-unity/)
     * 在Unity中如何制作火焰效果，有源码。
+  * [Riotgear logo Intro](https://blenderartists.org/t/riotgear-logo-intro/1164407)
+    * A case study with my logo of making a glitching effect in blender.
+  * [Unity_StarGlow](https://github.com/XJINE/Unity_StarGlow)
+    * Simple star-glow effect. implement in unity.
