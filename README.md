@@ -1,30 +1,40 @@
 # art
 
-## Fundamental
+## Courses
+
+### Animation Course
+  * [Complete Animation Course](https://creatureartteacher.com/product/complete-animation-course/)
+
+### VFX Course
+  * [basics-of-2d-fx-animation](https://rtfxanimation.com/courses/basics-of-2d-fx-animation/)
+
+## Tutorials
+
+### Fundamental
   * [Tech Art Fundamentals tutorial series](https://realtimevfx.com/t/tech-art-fundamentals-tutorial-series/8591)
     * the tutorial is for someone just getting into UE4 material and shaders and want to learn some basic concepts for vfx.
   * [Killer VFX Course](https://realtimevfx.com/t/killer-vfx-course/8700)
     * Photoshop For VFX Artists
-
-## UI/UX
+    
+### UI/UX
   * [Adobe Illustrator Game UI Design + Buttons Tutorial (Mobile Game Menu)](https://www.youtube.com/watch?v=9NYHe4fsGCQ)
     * the tutorial show how how to make toon style text, button.
 
-## animations
+### animations
   * [Tutorial: Tree Rigging For Feature Film](https://80.lv/articles/tutorial-tree-rigging-for-feature-film/)
     * this tutorial is dedicated to creating and animating trees in Houdini. The guide is all about the procedural way.
 
-## concept
+### concept
 
-## 3D
+### 3D
   * [Lousie Scene](https://blenderartists.org/t/lousie/1163322)
     * lousie speedsculpt concept by lesly oh
 
-## enviroment
+### enviroment
   * [Using Props & Lighting to Build Mood in a Scene](https://80.lv/articles/001agt-shabby-back-alley-rendering-lighting-in-eevee/)
     * Maarten Hof talked about his recent scene Shabby Back Alley: designing the space, lighting, and rendering in Blender EEVEE.
 
-## vfx
+### vfx
   * [Unreal Engine Toon Explosion in Niagara Tutorial](https://cghow.com/unreal-engine-toon-explosion-in-niagara-tutorial/)
     * real time vfx : Unreal Engine Toon Explosion in Niagara Tutorial
   * [Bomb](https://realtimevfx.com/t/sifas-sketchbook/9265/15)
@@ -44,3 +54,4 @@
     * A case study with my logo of making a glitching effect in blender.
   * [Unity_StarGlow](https://github.com/XJINE/Unity_StarGlow)
     * Simple star-glow effect. implement in unity.
+    
