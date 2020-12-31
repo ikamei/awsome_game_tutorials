@@ -55,3 +55,7 @@
   * [Unity_StarGlow](https://github.com/XJINE/Unity_StarGlow)
     * Simple star-glow effect. implement in unity.
     
+## Books
+  * 透视画法入门
+  * 艺用解剖学笔记
+  
